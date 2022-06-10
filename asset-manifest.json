@@ -1,16 +1,27 @@
 {
   "files": {
-    "main.css": "/React-projects/static/css/main.0942ee24.css",
-    "main.js": "/React-projects/static/js/main.893a3da3.js",
-    "static/js/787.3db91070.chunk.js": "/React-projects/static/js/787.3db91070.chunk.js",
-    "static/media/coviddoc.png": "/React-projects/static/media/coviddoc.c5d35cf903d9730fcd84.png",
-    "index.html": "/React-projects/index.html",
-    "main.0942ee24.css.map": "/React-projects/static/css/main.0942ee24.css.map",
-    "main.893a3da3.js.map": "/React-projects/static/js/main.893a3da3.js.map",
-    "787.3db91070.chunk.js.map": "/React-projects/static/js/787.3db91070.chunk.js.map"
+    "main.css": "/cryptotracker/static/css/main.05544e65.css",
+    "main.js": "/cryptotracker/static/js/main.015714b3.js",
+    "static/js/787.3db91070.chunk.js": "/cryptotracker/static/js/787.3db91070.chunk.js",
+    "static/media/cvgenerator.jpg": "/cryptotracker/static/media/cvgenerator.d6cd2aac981302e5efa7.jpg",
+    "static/media/crypto.jpg": "/cryptotracker/static/media/crypto.e2318fdc151cbafb12f2.jpg",
+    "static/media/agridigital.jpg": "/cryptotracker/static/media/agridigital.cd860ef2867198ab0f9f.jpg",
+    "static/media/crytpo1.jpg": "/cryptotracker/static/media/crytpo1.b431e15951a762c984ed.jpg",
+    "static/media/agri.jpg": "/cryptotracker/static/media/agri.49e893eb9bf93b213871.jpg",
+    "static/media/ub.png": "/cryptotracker/static/media/ub.c0fe384c719a7deafa2c.png",
+    "static/media/reactjs.png": "/cryptotracker/static/media/reactjs.ac9979693620f0a96231.png",
+    "static/media/css.png": "/cryptotracker/static/media/css.02d225c7df0b28341d8d.png",
+    "static/media/java.png": "/cryptotracker/static/media/java.f5dd86c3ef6ef3f85acf.png",
+    "static/media/html.png": "/cryptotracker/static/media/html.cfb2ba4a6b1c3de295bc.png",
+    "static/media/js.png": "/cryptotracker/static/media/js.3dfb665e058d08c99f28.png",
+    "static/media/sql.png": "/cryptotracker/static/media/sql.c650f2a7a03d9ac41cda.png",
+    "index.html": "/cryptotracker/index.html",
+    "main.05544e65.css.map": "/cryptotracker/static/css/main.05544e65.css.map",
+    "main.015714b3.js.map": "/cryptotracker/static/js/main.015714b3.js.map",
+    "787.3db91070.chunk.js.map": "/cryptotracker/static/js/787.3db91070.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0942ee24.css",
-    "static/js/main.893a3da3.js"
+    "static/css/main.05544e65.css",
+    "static/js/main.015714b3.js"
   ]
 }
